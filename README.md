@@ -1,47 +1,143 @@
 # TecBoard
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light" /> </p>
+
+TecBoard is a modern and responsive web dashboard designed to organize and present technology-related resources in a clean and intuitive interface. The project was created as part of front-end development practice, focusing on semantic HTML structure, CSS layout organization, and version control using Git and GitHub. ([GitHub][1])
 
 ---
 
-## Description
+## Getting Started
 
-**TecBoard** is a modern web dashboard designed to centralize technology-related information in a clean and intuitive interface.  
-The project aims to provide a visually organized board where users can explore relevant tech content, tools, and resources.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-The application focuses on **simplicity, usability, and responsive design**, making it accessible on different devices while maintaining a modern UI.
+### Prerequisites
 
-This project was developed as part of a learning and portfolio initiative to demonstrate **front-end development skills and interface design**.
+To run this project locally, you only need a modern web browser and optionally a code editor for development.
 
----
+Examples:
 
-## Project Objective
-
-The goal of **TecBoard** is to create a **centralized technology dashboard** that allows users to:
-
-- Access technology-related information quickly
-- Visualize organized content in a modern UI
-- Explore a clean and responsive interface
-- Demonstrate practical front-end development concepts
+```
+Web Browser (Google Chrome, Firefox, Safari, Edge)
+Code Editor (VS Code recommended)
+Git (optional, for cloning the repository)
+```
 
 ---
 
-## Features
+### Installing
 
-- Technology dashboard interface
-- Fully responsive design
-- Fast and lightweight web application
-- Modern and clean user interface
-- Live deployment using GitHub Pages
+A step-by-step series of examples that tell you how to get a development environment running.
+
+Clone the repository:
+
+```
+git clone https://github.com/coelhokauap/tecboard.git
+```
+
+Navigate to the project folder:
+
+```
+cd tecboard
+```
+
+Open the project in your preferred code editor:
+
+```
+code .
+```
+
+Run the project by opening the **index.html** file in your browser.
+
+Example:
+
+```
+Open index.html
+```
+
+This will display the website locally so you can explore the dashboard interface and technology resources presented in the project.
 
 ---
 
-## Technologies
+## Running the tests
 
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-- GitHub Pages (Deployment)
+This project does not include automated tests, as it is a static front-end project focused on layout and interface development.
+
+### Break down into end to end tests
+
+Manual testing can be performed by opening the project in a browser and navigating through the sections of the dashboard to verify layout responsiveness and interface organization.
+
+Example:
+
+```
+Open index.html and navigate through the dashboard sections.
+```
+
+### And coding style tests
+
+Coding style can be checked using tools such as HTML and CSS validators to ensure best practices.
+
+Example:
+
+```
+Use the W3C HTML Validator to check the HTML structure.
+```
+
+---
+
+## Deployment
+
+The project can be easily deployed using **GitHub Pages**.
+
+Steps:
+
+1. Push the project to a GitHub repository
+2. Go to repository settings
+3. Enable GitHub Pages
+4. Select the **main** branch as the source
+
+After deployment, the project will be available online.
+
+---
+
+## Built With
+
+* HTML5 – Website structure
+* CSS3 – Styling and layout
+* Git – Version control
+* GitHub – Code hosting and deployment
+
+---
+
+## Contributing
+
+Please read the CONTRIBUTING.md guide for details on the code of conduct and the process for submitting pull requests.
+
+---
+
+## Versioning
+
+This project follows **SemVer** for versioning. For available versions, see the repository tags.
+
+---
+
+## Authors
+
+* **Kauã Coelho Pacheco**
+  Project development
+  [https://github.com/coelhokauap](https://github.com/coelhokauap)
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. See the LICENSE.md file for details.
+
+---
+
+## Acknowledgments
+
+* Alura for the course that inspired the project
+* Open source community for development resources
+* Everyone who contributes to learning and sharing knowledge in technology
+
+[1]: https://github.com/leoneerick/tecboard?utm_source=chatgpt.com "leoneerick/tecboard: Projeto de landing page desenvolvido ..."
