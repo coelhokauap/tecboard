@@ -1,68 +1,51 @@
-# TecBoard
+# 📊 TecBoard
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light)](https://skillicons.dev)
-
-Aplicação web estática desenvolvida com o objetivo de apresentar conteúdos e recursos relacionados à tecnologia de forma visual e organizada. O projeto foi desenvolvido utilizando **HTML5**, **CSS3** e publicado através do **GitHub Pages**.
-
-🔗 **Acesse o projeto online:**  
-https://coelhokauap.github.io/tecboard/
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light" />
+</p>
 
 ---
 
-# Visão Geral
+## 📖 Description
 
-O **TecBoard** é um website desenvolvido com foco na prática de conceitos fundamentais de **desenvolvimento front-end**.
+**TecBoard** is a modern web dashboard designed to centralize technology-related information in a clean and intuitive interface.  
+The project aims to provide a visually organized board where users can explore relevant tech content, tools, and resources.
 
-A aplicação apresenta uma interface simples e organizada para exibição de conteúdos relacionados ao universo da tecnologia, servindo como um projeto prático para aplicar conhecimentos em **estruturação de páginas web**, **estilização com CSS** e **publicação de sites estáticos**.
+The application focuses on **simplicity, usability, and responsive design**, making it accessible on different devices while maintaining a modern UI.
 
-O projeto também demonstra o fluxo completo de desenvolvimento utilizando **Git**, **GitHub** e **GitHub Pages**, simulando um pequeno portal ou painel informativo sobre tecnologia.
-
----
-
-# Objetivos do Projeto
-
-Este projeto foi desenvolvido com os seguintes objetivos:
-
-* Praticar **estruturação semântica com HTML**
-* Aplicar **estilização e organização visual utilizando CSS**
-* Aprender e utilizar **controle de versão com Git**
-* Publicar aplicações web utilizando **GitHub Pages**
-* Desenvolver experiência prática na criação de interfaces web simples
+This project was developed as part of a learning and portfolio initiative to demonstrate **front-end development skills and interface design**.
 
 ---
 
-# Tecnologias Utilizadas
+## 🎯 Project Objective
 
-As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
+The goal of **TecBoard** is to create a **centralized technology dashboard** that allows users to:
 
-* **HTML5** – Estrutura e organização do conteúdo
-* **CSS3** – Estilização e layout da interface
-* **Git** – Controle de versão
-* **GitHub** – Armazenamento do repositório
-* **GitHub Pages** – Hospedagem do site
-
----
-
-# Funcionalidades
-
-O projeto apresenta as seguintes características:
-
-* Estrutura de página organizada e semântica
-* Layout visual simples e responsivo
-* Seções informativas relacionadas à tecnologia
-* Navegação clara e intuitiva
-* Interface visual focada em legibilidade
-* Publicação online utilizando GitHub Pages
+- Access technology-related information quickly
+- Visualize organized content in a modern UI
+- Explore a clean and responsive interface
+- Demonstrate practical front-end development concepts
 
 ---
 
-# Aprendizados e Práticas Aplicadas
+## ✨ Features
 
-Durante o desenvolvimento deste projeto foram aplicados diversos conceitos importantes do desenvolvimento web, como:
+- 📌 Technology dashboard interface
+- 📱 Fully responsive design
+- ⚡ Fast and lightweight web application
+- 🎨 Modern and clean user interface
+- 🌐 Live deployment using GitHub Pages
 
-* Estruturação de páginas utilizando **HTML semântico**
-* Organização de conteúdo em **seções lógicas**
-* Criação de layouts e estilização com **CSS**
-* Versionamento de código com **Git**
-* Publicação de aplicações web estáticas
-* Organização de arquivos em projetos front-end
+---
+
+## 🛠 Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- GitHub Pages (Deployment)
+
+---
+
+⭐ If you like this project, consider giving it a **star** on GitHub!
