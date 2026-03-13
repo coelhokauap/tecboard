@@ -66,18 +66,3 @@ Durante o desenvolvimento deste projeto foram aplicados diversos conceitos impor
 * Versionamento de código com **Git**
 * Publicação de aplicações web estáticas
 * Organização de arquivos em projetos front-end
-
----
-
-# Como Executar o Projeto Localmente
-
-Para executar o projeto em sua máquina local:
-
-```bash
-# Clone o repositório
-git clone https://github.com/coelhokauap/tecboard.git
-
-# Acesse a pasta do projeto
-cd tecboard
-
-# Abra o arquivo index.html no navegador
