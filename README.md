@@ -1,4 +1,4 @@
-# 📊 TecBoard
+# TecBoard
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Description
+## Description
 
 **TecBoard** is a modern web dashboard designed to centralize technology-related information in a clean and intuitive interface.  
 The project aims to provide a visually organized board where users can explore relevant tech content, tools, and resources.
@@ -17,7 +17,7 @@ This project was developed as part of a learning and portfolio initiative to dem
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 The goal of **TecBoard** is to create a **centralized technology dashboard** that allows users to:
 
@@ -28,24 +28,20 @@ The goal of **TecBoard** is to create a **centralized technology dashboard** tha
 
 ---
 
-## ✨ Features
+## Features
 
-- 📌 Technology dashboard interface
-- 📱 Fully responsive design
-- ⚡ Fast and lightweight web application
-- 🎨 Modern and clean user interface
-- 🌐 Live deployment using GitHub Pages
+- Technology dashboard interface
+- Fully responsive design
+- Fast and lightweight web application
+- Modern and clean user interface
+- Live deployment using GitHub Pages
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - HTML5
 - CSS3
 - JavaScript
 - Git & GitHub
 - GitHub Pages (Deployment)
-
----
-
-⭐ If you like this project, consider giving it a **star** on GitHub!
